@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&center=true&vCenter=true&width=700&lines=Hi+I'm+Hemanth+Thottempudi;AI+%26+Machine+Learning+Engineer;Data+Science+Enthusiast;Open+to+Internships)](https://git.io/typing-svg)
 # Hi there 👋, I'm Hemanth Thottempudi
 
 <div align="center">
@@ -21,6 +22,20 @@ I continuously improve my skills by working on end-to-end AI projects, solving p
 * 📊 Passionate about Data Science & Analytics
 * 🌱 Currently learning LLMs, RAG, MLOps, and Cloud
 * 💼 Open to AI/ML, Data Science, and Software Engineering internships
+
+---
+
+<!-- Profile Views -->
+![](https://komarev.com/ghpvc/?username=hemanth-t11&style=for-the-badge)
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanth-t11&show_icons=true)
+
+<!-- Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=hemanth-t11)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-t11&layout=compact)
 
 ---
 
