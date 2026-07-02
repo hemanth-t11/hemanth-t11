@@ -1,111 +1,148 @@
-# Hi there 👋, I'm Hemanth Thottempudi
+<h1 align="center">
+Hi 👋, I'm Hemanth Thottempudi
+</h1>
 
-<div align="center">
+<h3 align="center">
+AI Engineer • Machine Learning • Data Science • Software Developer
+</h3>
 
-### AI & Machine Learning Enthusiast | Data Science | Software Developer
+<p align="center">
+Building intelligent systems that transform data into impactful solutions through Artificial Intelligence, Machine Learning, and Software Engineering.
+</p>
 
-*"Building intelligent solutions that solve real-world problems through AI and Machine Learning."*
+---
 
-</div>
+# 👨‍💻 About Me
 
+I'm a Computer Science undergraduate passionate about building AI-powered applications that solve real-world problems.
 
+My interests include:
 
-## 👨‍💻 About Me
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 📈 Deep Learning
+- 💬 Large Language Models
+- ☁️ Cloud Technologies
 
-I am a Computer Science undergraduate passionate about Artificial Intelligence, Machine Learning, and Data Science. I enjoy transforming data into intelligent solutions and building applications that create real-world impact.
+I enjoy designing end-to-end AI solutions—from collecting and preprocessing data to training models and deploying user-friendly applications.
 
-I continuously improve my skills by working on end-to-end AI projects, solving programming problems, and exploring modern technologies including Large Language Models (LLMs), Deep Learning, and Cloud Computing.
+---
 
-* 🎓 B.Tech in Computer Science
-* 🤖 AI & Machine Learning Enthusiast
-* 📊 Passionate about Data Science & Analytics
-* 🌱 Currently learning LLMs, RAG, MLOps, and Cloud
-* 💼 Open to AI/ML, Data Science, and Software Engineering internships
+# 💼 Experience
 
+## AI & Machine Learning Intern
 
+**Research Centre Imarat (DRDO)**
 
-# 🚀 Tech Stack
+- Developed deep learning models for Hardware-in-the-Loop Simulation (HILS) data.
+- Built LSTM-based forecasting models.
+- Implemented anomaly detection techniques.
+- Optimized data preprocessing pipelines.
+- Evaluated multiple machine learning algorithms.
 
-### Programming Languages
+---
 
-* Python
-* Java
-* SQL
-* C
+# 🚀 Featured Projects
 
-### Artificial Intelligence & Machine Learning
+## 🧠 SHL Assessment Recommender
 
-* TensorFlow
-* Scikit-learn
-* Machine Learning
-* Deep Learning
-* Regression
-* Classification
-* Feature Engineering
-* Model Evaluation
+AI-powered recommendation system using semantic search and LLMs.
 
-### Data Science
-
-* Pandas
-* NumPy
-* Matplotlib
-* Data Analysis
-* Data Visualization
-* Exploratory Data Analysis (EDA)
-
-### Web Development
-
-* HTML
-* CSS
-* JavaScript
-* Flask
-* Streamlit
-* FastAPI
-
-### Databases
-
-* MySQL
-* MongoDB
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
-* Google Colab
-
-
-
-# ⭐ Featured Projects
-
-## 🧠 SHL Assessment Recommendation System
-
-Built an AI-powered recommendation system that matches SHL assessments with job descriptions using semantic search and Large Language Models.
-
-**Technologies:** Python • FastAPI • FAISS • Sentence Transformers • Google Gemini
-
-
+---
 
 ## 📈 HILS Time-Series Analysis
 
-Developed deep learning models for forecasting sensor data and detecting anomalies in Hardware-in-the-Loop Simulation datasets.
+LSTM forecasting and anomaly detection on engineering sensor data.
 
-**Technologies:** TensorFlow • LSTM • Python • NumPy • Pandas
-
-
+---
 
 ## 🎤 Human Scream Detection
 
-Designed a smart surveillance application capable of classifying human screams using audio feature extraction and machine learning.
+Audio classification system for smart surveillance.
 
-**Technologies:** Python • Librosa • Scikit-learn • Streamlit
-
-
+---
 
 ## 🧩 Autism Detection
 
-Created a machine learning model to predict Autism Spectrum Disorder using behavioral assessment data.
+Machine Learning model for ASD prediction.
 
-**Technologies:** Python • Scikit-learn • Streamlit
+---
 
+## 🏡 House Price Prediction
+
+Regression model with interactive web application.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+Python • Java • SQL • C
+
+### AI & Machine Learning
+
+TensorFlow
+
+Scikit-learn
+
+Deep Learning
+
+Machine Learning
+
+LSTM
+
+### Backend
+
+FastAPI
+
+Flask
+
+Streamlit
+
+### Database
+
+MySQL
+
+MongoDB
+
+### Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Docker
+
+Linux
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- MLOps
+- Docker
+- Kubernetes
+- AWS
+
+---
+
+# 📫 Connect
+
+LinkedIn:
+www.linkedin.com/in/hemanth-t11
+
+GitHub:
+github.com/hemanth-t11
+
+Email:
+your-email@example.com
+
+---
+
+⭐ Thank you for visiting my profile!
