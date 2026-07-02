@@ -262,46 +262,6 @@ Python • Scikit-learn • Streamlit
 
 </table>
 
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🏡 House Price Prediction</h3>
-
-<p align="center">
-
-Regression-based prediction system that estimates house prices using multiple property features.
-
-</p>
-
-### Features
-
-✔ Regression
-
-✔ Feature Engineering
-
-✔ Interactive UI
-
-✔ Flask Deployment
-
-✔ Prediction API
-
-</td>
-
-<td width="50%">
-
-<img src="images/house.png"/>
-
-</td>
-
-</tr>
-
-</table>
-
 
 
 ## 🏆 Achievements
