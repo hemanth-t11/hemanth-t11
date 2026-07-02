@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&center=true&vCenter=true&width=700&lines=Hi+I'm+Hemanth+Thottempudi;AI+%26+Machine+Learning+Engineer;Data+Science+Enthusiast;Open+to+Internships)](https://git.io/typing-svg)
 # Hi there 👋, I'm Hemanth Thottempudi
 
 <div align="center">
@@ -9,7 +8,7 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -23,21 +22,7 @@ I continuously improve my skills by working on end-to-end AI projects, solving p
 * 🌱 Currently learning LLMs, RAG, MLOps, and Cloud
 * 💼 Open to AI/ML, Data Science, and Software Engineering internships
 
----
 
-<!-- Profile Views -->
-![](https://komarev.com/ghpvc/?username=hemanth-t11&style=for-the-badge)
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanth-t11&show_icons=true)
-
-<!-- Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=hemanth-t11)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-t11&layout=compact)
-
----
 
 # 🚀 Tech Stack
 
@@ -90,7 +75,7 @@ I continuously improve my skills by working on end-to-end AI projects, solving p
 * Jupyter Notebook
 * Google Colab
 
----
+
 
 # ⭐ Featured Projects
 
@@ -100,7 +85,7 @@ Built an AI-powered recommendation system that matches SHL assessments with job 
 
 **Technologies:** Python • FastAPI • FAISS • Sentence Transformers • Google Gemini
 
----
+
 
 ## 📈 HILS Time-Series Analysis
 
@@ -108,7 +93,7 @@ Developed deep learning models for forecasting sensor data and detecting anomali
 
 **Technologies:** TensorFlow • LSTM • Python • NumPy • Pandas
 
----
+
 
 ## 🎤 Human Scream Detection
 
@@ -116,7 +101,7 @@ Designed a smart surveillance application capable of classifying human screams u
 
 **Technologies:** Python • Librosa • Scikit-learn • Streamlit
 
----
+
 
 ## 🧩 Autism Detection
 
@@ -124,51 +109,3 @@ Created a machine learning model to predict Autism Spectrum Disorder using behav
 
 **Technologies:** Python • Scikit-learn • Streamlit
 
----
-
-# 📚 Currently Learning
-
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Deep Learning
-* Data Engineering
-* MLOps
-* Docker
-* Kubernetes
-* Cloud Computing
-
----
-
-# 🎯 Career Goal
-
-To become an AI Engineer capable of designing scalable, intelligent systems that solve meaningful real-world problems through Machine Learning, Data Science, and modern AI technologies.
-
----
-
-# 📊 GitHub Highlights
-
-I enjoy building projects that demonstrate:
-
-* End-to-end Machine Learning workflows
-* Data preprocessing and feature engineering
-* Deep Learning applications
-* AI-powered web applications
-* Clean, maintainable, and well-documented code
-* Real-world problem solving
-
----
-
-# 🤝 Let's Connect
-
-* 💼 LinkedIn: https://www.linkedin.com/in/hemanth-t11
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-
----
-
-<div align="center">
-
-### ⭐ Thank you for visiting my profile!
-
-*If you like my work, consider starring my repositories and connecting with me.*
-
-</div>
